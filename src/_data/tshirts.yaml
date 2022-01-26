@@ -1,0 +1,38 @@
+- name: Face the possum ed. 1
+  images:
+    ['/images/face-the-possum-1.png', '/images/face-the-possum-1-back.png']
+  slug: face-the-possum-1
+- name: 11ty was the Imposster
+  images: ['/images/imposster.png', '/images/imposster-back.png']
+  slug: imposster
+- name: Weighing the poss and cons
+  images: ['/images/poss-and-cons.png', '/images/poss-and-cons-back.png']
+  slug: poss-and-cons
+- name: 2 Fast 2 Furryous
+  images: ['/images/furryous.png', '/images/furryous-back.png']
+  slug: furryous
+- name: Me and the possum posse
+  images: ['/images/possum-posse.png', '/images/possum-posse-back.png']
+  slug: possum-posse
+- name: Face the possum ed. 3
+  images:
+    ['/images/face-the-possum-3.png', '/images/face-the-possum-3-back.png']
+  slug: face-the-possum-3
+- name: Do the impossumble
+  images:
+    ['/images/do-the-impossumble.png', '/images/do-the-impossumble-back.png']
+  slug: do-the-impossumble
+- name: Anything is possumbowl
+  images: ['/images/possumbowl.png', '/images/possumbowl-back.png']
+  slug: possumbowl
+- name: 11ty 1.0 when?
+  images:
+    ['/images/eleventy-one-when.png', '/images/eleventy-one-when-back.png']
+  slug: eleventy-one-when
+- name: It possumtimes be like that
+  images: ['/images/possumtimes.png', '/images/possumtimes-back.png']
+  slug: possumtimes
+- name: Face the possum ed. 2
+  images:
+    ['/images/face-the-possum-2.png', '/images/face-the-possum-2-back.png']
+  slug: face-the-possum-2
